@@ -1,7 +1,0 @@
-C:\Users\alexa\source\repos\72_JaggedArray\72_JaggedArray\bin\Debug\72_JaggedArray.exe.config
-C:\Users\alexa\source\repos\72_JaggedArray\72_JaggedArray\bin\Debug\72_JaggedArray.exe
-C:\Users\alexa\source\repos\72_JaggedArray\72_JaggedArray\bin\Debug\72_JaggedArray.pdb
-C:\Users\alexa\source\repos\72_JaggedArray\72_JaggedArray\obj\Debug\72_JaggedArray.csprojAssemblyReference.cache
-C:\Users\alexa\source\repos\72_JaggedArray\72_JaggedArray\obj\Debug\72_JaggedArray.csproj.CoreCompileInputs.cache
-C:\Users\alexa\source\repos\72_JaggedArray\72_JaggedArray\obj\Debug\72_JaggedArray.exe
-C:\Users\alexa\source\repos\72_JaggedArray\72_JaggedArray\obj\Debug\72_JaggedArray.pdb
