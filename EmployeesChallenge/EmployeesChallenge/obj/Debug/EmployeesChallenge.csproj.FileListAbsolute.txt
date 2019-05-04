@@ -1,0 +1,9 @@
+C:\Users\alexa\source\repos\EmployeesChallenge\EmployeesChallenge\obj\Debug\EmployeesChallenge.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\EmployeesChallenge\EmployeesChallenge\obj\Debug\EmployeesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Curso_VS\EmployeesChallenge\EmployeesChallenge\bin\Debug\EmployeesChallenge.exe.config
+C:\Users\alexa\source\repos\Curso_VS\EmployeesChallenge\EmployeesChallenge\bin\Debug\EmployeesChallenge.exe
+C:\Users\alexa\source\repos\Curso_VS\EmployeesChallenge\EmployeesChallenge\bin\Debug\EmployeesChallenge.pdb
+C:\Users\alexa\source\repos\Curso_VS\EmployeesChallenge\EmployeesChallenge\obj\Debug\EmployeesChallenge.csprojAssemblyReference.cache
+C:\Users\alexa\source\repos\Curso_VS\EmployeesChallenge\EmployeesChallenge\obj\Debug\EmployeesChallenge.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\Curso_VS\EmployeesChallenge\EmployeesChallenge\obj\Debug\EmployeesChallenge.exe
+C:\Users\alexa\source\repos\Curso_VS\EmployeesChallenge\EmployeesChallenge\obj\Debug\EmployeesChallenge.pdb
